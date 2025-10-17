@@ -1,4 +1,4 @@
-## Explicación Docker Compose
+## Explicación del Docker Compose
 
 
 ````
